@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 2187ed99574b99f4eafe6519547e0633
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: coca
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 403
+      width: 11
+      height: 18
+    spriteID: 09efb356467a00f4995df833c575a87d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 41, y: 239}
+  - name: Calque 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 354
+      width: 16
+      height: 41
+    spriteID: 683cd7c7d94c5b24d9160042305c93ac
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 169, y: 271}
+  - name: kisspng-kennedy-space-center-space-shuttle-program-sts-129-rockets-5ab7a2fd8f7855.4043031615219842535877
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 268
+      width: 49
+      height: 78
+    spriteID: f8a906a36ce2e614da5db9ea1dd7905d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 489, y: -33}
+  - name: McDonald's.svg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 950
+      y: 4
+      width: 37
+      height: 37
+    spriteID: f061050ed640f144cad243d5b9c31900
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 627, y: -201}
+  - name: viking
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 995
+      y: 4
+      width: 17
+      height: 39
+    spriteID: 4670063fa32efca4c819a9409a64fe8b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 851, y: -124}
+  - name: sous-marin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 75
+      width: 187
+      height: 50
+    spriteID: 0a15b866adfb2f94282421a9b93aaae3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 652, y: 75}
+  - name: "\xE9olienne"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 133
+      width: 70
+      height: 127
+    spriteID: 4f301b0d07913de48a539961c12f5a1e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: -168}
+  - name: teslo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 652
+      y: 4
+      width: 176
+      height: 63
+    spriteID: a9d2b0e588db7ba429a68a0001aef8ff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 284, y: -91}
+  - name: titre
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 836
+      y: 4
+      width: 102
+      height: 17
+    spriteID: 7896f0f08ed27e946882100bff8bcd16
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 414, y: -280}
+  - name: fond
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 847
+      y: 75
+      width: 166
+      height: 39
+    spriteID: 6fa9a9e762e170d429ab8ac08ebceaf3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 464, y: -202}
+  - name: Calque 0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 640
+      height: 441
+    spriteID: cf7f82ba17d9b3c41b5b93aad39fc1c6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 640, y: 441}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: coca
+    spriteName: coca
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 09efb356467a00f4995df833c575a87d
+    layerID: 13
+    mosaicPosition: {x: 652, y: 403}
+  - name: Calque 1
+    spriteName: Calque 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 683cd7c7d94c5b24d9160042305c93ac
+    layerID: 5
+    mosaicPosition: {x: 652, y: 354}
+  - name: kisspng-kennedy-space-center-space-shuttle-program-sts-129-rockets-5ab7a2fd8f7855.4043031615219842535877
+    spriteName: kisspng-kennedy-space-center-space-shuttle-program-sts-129-rockets-5ab7a2fd8f7855.4043031615219842535877
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8a906a36ce2e614da5db9ea1dd7905d
+    layerID: 11
+    mosaicPosition: {x: 652, y: 268}
+  - name: McDonald's.svg
+    spriteName: McDonald's.svg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f061050ed640f144cad243d5b9c31900
+    layerID: 10
+    mosaicPosition: {x: 950, y: 4}
+  - name: viking
+    spriteName: viking
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4670063fa32efca4c819a9409a64fe8b
+    layerID: 8
+    mosaicPosition: {x: 995, y: 4}
+  - name: sous-marin
+    spriteName: sous-marin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0a15b866adfb2f94282421a9b93aaae3
+    layerID: 7
+    mosaicPosition: {x: 652, y: 75}
+  - name: "\xE9olienne"
+    spriteName: "\xE9olienne"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f301b0d07913de48a539961c12f5a1e
+    layerID: 16
+    mosaicPosition: {x: 652, y: 133}
+  - name: titre
+    spriteName: titre
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7896f0f08ed27e946882100bff8bcd16
+    layerID: 15
+    mosaicPosition: {x: 836, y: 4}
+  - name: teslo
+    spriteName: teslo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a9d2b0e588db7ba429a68a0001aef8ff
+    layerID: 4
+    mosaicPosition: {x: 652, y: 4}
+  - name: fond
+    spriteName: fond
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6fa9a9e762e170d429ab8ac08ebceaf3
+    layerID: 14
+    mosaicPosition: {x: 847, y: 75}
+  - name: Calque 0
+    spriteName: Calque 0
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf7f82ba17d9b3c41b5b93aad39fc1c6
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: 1571140653_gothenburg8 Texture
+  prefabAssetName: 1571140653_gothenburg8 Prefab
+  spriteLibAssetName: 1571140653_gothenburg8 Sprite Lib
+  secondarySpriteTextures: []
